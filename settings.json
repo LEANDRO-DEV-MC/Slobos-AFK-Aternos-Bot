@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "epsteinsislands-t6h7.aternos.me:56228",
     "port": 56228,
     "version": "",
     "try-creative": false
